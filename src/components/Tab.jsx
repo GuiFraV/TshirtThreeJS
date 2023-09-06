@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Tabs() {
+function Tab() {
   return (
     <div>Tabs</div>
   )
 }
 
-export default Tabs
+export default Tab

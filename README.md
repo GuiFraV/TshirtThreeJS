@@ -4,7 +4,7 @@
 
 ### 👉 [LIVE PREVIEW ICI](https://tshirt-three-js-murex.vercel.app/, 'T-shirt 3D avec Three.js') | <a href="https://tshirt-three-js-murex.vercel.app/" target="_blank">LIVE PREVIEW ICI</a> 👈
 
-N'hésitez pas à custom votre Tshirt en choisissant la couleur, le logo ou ajouter un de vos propre logo !
+N'hésitez pas à custom votre t-shirt en choisissant la couleur, le logo ou ajouter un de vos propres logos !
 
 ---
 

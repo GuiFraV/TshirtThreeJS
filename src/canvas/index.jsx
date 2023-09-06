@@ -9,16 +9,16 @@ const CanvasModel = () => {
   return (
     <Canvas>
       <ambientLight 
-        intesity={0.5}
+        intensity={0.5}
       />
       <Environment preset='city'/>
 
-      {/* <CameraRig> */}
-        {/* <Backdrop/> */}
+      <CameraRig>
+        {/* <Backdrop /> */}
         <Center>
-          <Shirt/>
+          <Shirt />
         </Center>
-      {/* <CameraRig/> */}
+      </CameraRig>
 
     </Canvas>
   )
